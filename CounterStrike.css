@@ -1,0 +1,40 @@
+h1 	{ 
+	      	font-family: Arial;
+	      	font-weight: bold;
+            text-align: center;
+            font-size: 26px;
+           	text-align: center;
+	    		}
+ol { 
+	color: red;
+	font-style: italic;
+	font-family: Georgia;
+	font-size: 16px;
+}
+.PONY 
+{ 
+text-align: center; 
+}
+.jopy 
+{ 
+font-family: Times New Roman;
+font-size: 20px; 
+color: grey;
+text-align: center;
+font-style: italic;
+ }
+ p {
+ 	font-size: 14px;
+ 	font-family: Georgia; 
+ }
+ 	h2 {  
+ 		font-size: 18px;
+ 		text-align: center;
+ 		font-weight: bold;
+ 		font-family: Georgia;
+ 		color: purple;
+ 	 }
+ 	 span
+ 	 {
+ 	 	color: green;
+ 	 }
